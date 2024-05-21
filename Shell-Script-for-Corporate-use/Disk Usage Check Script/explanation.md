@@ -16,4 +16,4 @@ Explanation
 
 • if [ $usage -ge $THRESHOLD ]; then: Checks if the usage exceeds the threshold.
 
-• echo "Warning: Disk usage on 𝑝𝑎𝑟𝑡𝑖𝑡𝑖𝑜𝑛𝑖𝑠𝑎��{usage}%": Prints a warning message.
+• echo "Warning: Disk usage on 𝑝𝑎𝑟𝑡𝑖𝑡𝑖𝑜𝑛 𝑖𝑠 𝑎𝑡 {usage}%": Prints a warning message.
