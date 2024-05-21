@@ -16,6 +16,7 @@ show database
 create database
 
 Explanation
+
 • DB_NAME: The name of the database to back up.
 
 • BACKUP_DIR: The directory where the backup will be stored.
